@@ -1,0 +1,204 @@
+﻿# Music Room Interface Info
+# Tags for the Akyu's Untouched Score vol.2 release
+
+[game]
+name = "幺樂団の歴史2 ~ Akyu's Untouched Score vol.2"
+name_en = "History of Yougakudan 2 ~ Akyu's Untouched Score vol.2"
+circle = "Team Shanghai Alice"
+artist = "ZUN"
+year = 2006
+gamenum = "02"
+
+packmethod = 0
+
+tracks = 23
+
+[update]
+wikipage = "Mystic_Square/Music"
+wikirev = 479130
+
+[01]
+name_jp = "怪綺談　～ Mystic Square"
+comment_en = "The usual title theme. \nThis is the song that really determined the direction of the rest of the game's music. \nNot bad, huh? (^^;;;"
+name_en = "Bizarre Romantic Story ~ Mystic Square"
+comment_jp = "あいかわらずのタイトルテーマです \nこの曲は、今回のゲームの曲の方向性を決めた曲なのです。\n悪くはないんじゃないかな(^^;;;"
+
+[02]
+name_jp = "Dream Express"
+comment_en = "This is a fairly rhythmical song. \nFor once (^^;; I created this with the idea of the East in mind. \nI hope you'll enjoy the Dream Express-like fast pace of the hook."
+name_en = "Dream Express"
+comment_jp = "今回は、若干軽快な曲です。\n珍しく(^^;; 東方ということを意識し \nて作りました。\nDream Express 夢特急ということで \nサビの疾走感を堪能ください。"
+comment3_en = "(th5_02pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Dream Express\" from Mystic Square.\nI aimed to create a song with a nice groove. \nI already had the main melody of the first page in my mind from the end of Summer Comiket. \nI knew that this was the way to go for the first page. I knew that the first page should be like this. (^^;;;\n\nI always think that the speed of the drums is murderous. \nI can't imagine playing it live at all (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_02pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 Dream Express 】オリジナル版です。\nノリのいい曲を目指しました。\n幻想郷を発表した夏コミ終了時から、すでに１面の曲のメインメロディは頭の中でできあがって\nいました。やっぱ、１面はこうだよな～。と(^^;;\n\nいつも思いますが、ドラムのスピードは殺人的ですね。\n生演奏とかいっさい考えられないです（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_02.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Dream Express\" from Mystic Square\n\nThis song is full of all kinds of memories. \nI had planned on making Lotus Land Story the final game when I released it, and making it my farewell to my doujin activities after that Summer Comiket, but it sold a lot better than I expected. That led me to not really being satisfied with the first stage themes of that song being too dark, so on the train home after the event, I came up with this song. \nThe song's title is more fitting than you might think. \nThanks to this song, I was determined to release another game in the short time between Summer and Winter Comikets (though I ended up reliving the nightmare that was making PoDD (^^;), and so I wasn't able to wash my hands of the whole doujin thing, after all.\n\nI tried to make this song jazz fusion with a dash of hard rock. The sub-melody in the piano is my own style of complex jazz, and then I set up a simpler main melody and upbeat drum rhythm against that complicated backing. This is without a doubt the basic idea behind all Touhou songs.\n\nIt's a very moving song... no, really.\n\nBut I would like to say one more thing about it. \nThis song is REALLY dark (BA-BUM) and Shuusou Gyoku's False Strawberry is even DARKER. (Mwahahaha)\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_02.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 Dream Express 】です。\n\n\nこれは、色々と思い出深い曲です。\nそもそも、４作目に当たる東方幻想郷が最終作の予定だったので、幻想郷発売の夏コミで\nこれで同人稼業ともおさらばと思っていたのですが、幻想郷の売れ行きが思った以上によ\nかったことと、幻想郷の一面テーマ曲があまりに暗い曲だったことがどうしても納得いか\nず、帰りの電車の中で生まれた曲が、この【 Dream Express 】です。\n\nまさに夢特急。\n\nこの曲のおかげて、夏から冬に短期間にまた一本創る決心してしまった。\n（夢時空の悪夢再び(^^;） \nというか、結局同人から足を洗ってないし(ぉ\n\n\n曲はハードロック気味、ジャズフュージョンといったものを目指してあります。\n今回のピアノ部分やサブメロディは、ジャズの複雑なメロディを自分風にアレ\nンジしてみました。\n複雑なサブメロディをバックに、わかりやすいメインメロディ＋軽快なドラム。\nこれが、東方曲の基本だったに違いない。\n\n\n\nこの曲は、感慨深い... いや、ほんとに。\n\n\nでも、一言いいたい。\n\nこの曲も暗いぞ（爆）\nさらに、秋霜玉のフォルスストロベリーはもっと暗いぞ（呪殺）\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[03]
+name_jp = "魔法陣　～ Magic Square"
+comment_en = "This song really cements the image of the soundtrack of the game as a whole. \nIt's got an atmosphere of a little glum elegance (^^; and cuteness (or so I hope).\n\nIt kind of feels like the tone of Lotus Land Story comes through in the melody..."
+name_en = "Magic Square"
+comment_jp = "この曲で、今回の曲全体のイメージ\nが決定したようなもんです。\n若干の渋さ(^^;とかわいらしさを持\nつという雰囲気です。（だといいな）\n\nメロディに幻想郷の色がでている様\nな気もするけど・・・"
+comment2_en = "(th5_03pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Magic Square\" from Mystic Square. \nThis xylophone-like sound is my favorite, and I use it a lot in the midi version. \nThis song is the boss song on the first stage, so you probably won't hear it until the loop.\n\nI like this song, even though it is a short song.\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_03pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 魔法陣　～ Magic Square 】オリジナル版です。\nこの、木琴みたいな音はお気に入りです。Midi になっても多用しています。\nこの曲は、１面ボス曲なのでまずループまで聴くことは無いでしょう(^^;;\n\n短い曲ですが、割と好きな曲です。\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[04]
+name_jp = "夢想時空"
+comment_en = "I wanted it to have a catchy rhythm... \nListening to it, I guess the melody is cool, too. \nWell, the stage 1 song had a nice rhythm, right? \nI wanted the stage 2 theme to have a sense of speed throughout this time, and, well, this is how it turned out."
+name_en = "Dimension of Reverie"
+comment_jp = "ノリ重視のつもりでしたが・・・\nよくきくとメロディはかっこいいかも \nまぁ、１面にまけじと軽快かな？ \n面的に、今回の２面はスピード感が欲\nしかったので、まぁこんな感じ。"
+comment3_en = "(th5_04pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Dimension of Reverie\" from Mystic Square. \nWhy is it that the chorus is so Japanese in subspace? (^^;;;\n\nAfter all, it is because she is a shrine maiden, right?\n\nThe midboss appears with the chorus. \nIt's not a very bulletproof surface, so you can listen to the song very well (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_04pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 夢幻時空 】オリジナル版です。\n亜空間で、サビがここまで和風なのはなぜ？(^^;;\n\nやはり、巫女さんだから？（ぉ\n\nサビと一緒に中ボスが出てくるように仕向けてあります。\nあんま、弾のない面なので曲もよく聴けますね（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_04.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Dimension of Reverie\" from Touhou 5: Mystic Square. \nI recall making the original song with the idea of a fusion of eastern and western styles. \nIf I had done it better, the mid-boss would have shown up as the song entered the last part of the hook.\n\nIn the arrangement, I kept the same image as the original, but made it even more mellow (for some reason). \nI guess the original feels faster.\n\nBut anyway, I'm sorry about the uneven volume of the song. (^^;; \nPlease adjust your speakers. \n\nWinds are still pretty hard to deal with (sweats), but I like them so that's why I put them in here (What about the guitar? (lol)).\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_04.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Project第５弾　東方怪綺談より【 夢想時空 】です。\nこの曲、オリジナルは東西混合風にしようと考えながら作った記憶があります。\n処理落ちしなければ、最後のサビと同時に中ボスが現れたはずです。\n\nアレンジは、元曲のイメージを崩さず、かつしっとり感を加えてみました（謎）\n元曲の方はもっと、スピード感があったかもね。\n\nそれにしても、曲のボリュームがまちまちですみません(^^;; \nどうか、聴く方でスピーカーのボリュームを調整したってください。\n\nやはり、笛は難しいね(汗)、でも好きなので使いたい所（ギターはどうした（笑））\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[05]
+name_jp = "霊天　～ Spiritual Heaven"
+comment_en = "This is the theme for a boss who I don't know why she's even here. (^^;; \nThis has way too much grit (lol).\n\nI probably could've done more with it, though..."
+name_en = "Spiritual Heaven"
+comment_jp = "何のためにいるんだか分からんボス\nのテーマ曲ですね(^^;; \nこれは渋過ぎ（笑）\n\nもっと、色々出来たかも・・・"
+
+[06]
+name_jp = "Romantic Children"
+comment_en = "It has a pretty good Makai feel about it, doesn't it? \nThe stage 1, 2 and 3 songs all turned out with a real sense of speed. \nSince it's Makai, I think it feels more western... hmm."
+name_en = "Romantic Children"
+comment_jp = "なかなか、魔界な感じに仕上がった\nかな？ \n１，２，３面と結構スピード感があ\nる曲になっているね。\n魔界な感じってことで、西洋風にな\nってるかな。う～ん"
+comment3_en = "(th5_06pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Romantic Children\" from Mystic Square.\n\nI thought I created it with the theme of Makai.\nI don't remember much about it, but I put out the midboss when it gets the most intense, I remember that the song became too long and the midboss came later... (^^;;\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_06pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 Romantic Children 】オリジナル版です。\n\n魔界をテーマに創ったつもりだったんだけどねぇ。\nもう、あんまり覚えていないけど、一番激しくなるときに中ボスを出す、\nって調整していたら、曲が長くなって中ボスが後の方になってしまった記憶が... (^^;;\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_06.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Romantic Children\" from Mystic Square.\n\nI want to feel nostalgic about it, but I really don't remember this song much(^^; Since I had no other choice, I remade it while listening to the FM version. As a result, it's pretty faithful to the original.\n\nSince I don't remember anything from when I made the song, that means it wasn't that hard to make. \nHowever, when it came time to rearrange it, I was surprised at how the chords are a lot more complex than they sound. Then it's almost three minutes before it loops. This song is just full of mysteries... I wonder if I even made it. (^^;\n\nAs for the arrangement, I'm pretty satisfied with it. \nI stressed the romanticism across the whole thing. While listening to the original, I must have made the song with the idea of a precocious child in mind. With the latter half of the original song's intense, violent percussion, that seems to be the right answer. That does indeed bring out the childishness of the song. (Really now? (^^;) \nLately, I've been checking out using MIDI, but it turns out that it takes a strangely long time to write songs in it, but as I've been experimenting with the effects as well, it's starting to speed things up as I learn them. \nThis song took about 2-3 hours to make. (^^; \nBut then again, if you don't listen to it with an 88Pro, it's pointless. (;_;\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_06.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 Romantic Children 】です。\n\nなつかしい... と思いきや、この曲ほとんど覚えてなかったです(^^;仕方がないので、\nＦＭ版を聴いてから作りました。ですのでかなりオリジナルに忠実になってます。\n\nで、全然作った時のことを覚えていなかったのですが、そういう曲ってたいていは作るの\nに苦労しなかった曲なんですね。\nでも、いざアレンジしようとしたら、聴いた感じ以上に複雑なコードでびっくり。\nさらにループまで３分ほどと長め。\n謎の多い曲だ...　ほんとに私が作曲したのだろうか(^^;\n\n\nアレンジの出来具合は、かなり満足げ。\n全体的にロマンチック部分を強調しました。こうして聴いてみると、ませたお子様って\nイメージで創っただけあるね。後半部分の激烈に激しいドラムはオリジナルがそうだっ\nたからそうしてみたけど、やっぱ正解だわ。あれが子供らしさを出している（ほんとか?(^^; \n最近、Midiの勉強と実験をしていて、作曲に微妙に時間がかかるようになっていたのですが\nさらに最近、新しいエフェクト操作にも慣れて速くなってきました。\nこの曲も２～３時間で出来たしね(^^; \nもっとも、88Pro で聴かないとそれも意味ないというのが(;_;\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[07]
+name_jp = "プラスチックマインド"
+comment_en = "If you listen carefully (?), it's pretty dark. ^^; \nI think the third stage boss of a shmup is a significant turning point, so I put some extra spirit into the making of this song. \n(Well, it's not like I was slacking on the other songs or anything... (^^;;;)"
+name_en = "Plastic Mind"
+comment_jp = "まとも（？）に聞くと暗い曲かも(^^; \nシューティングゲームの３面ボスって\nのは、一つのターニングポイントだと\n思ってますので、ちょっと気合いを入\nれて作ってみました。\n（いや、決していままでのは手を抜い\nてたわけじゃなく・・・(^^;;;　)"
+
+[08]
+name_jp = "メイプルワイズ"
+comment_en = "This ended up a pretty calm song all of a sudden. \n(Really, though?) \nThis was a pretty hard song to make. \nBut for what it's worth, it turned out pretty cool. \n(Didn't it?)"
+name_en = "Maple Wise"
+comment_jp = "いきなり落ち着いた曲になりました \nね。（そうかな？）\nこの曲はかなり苦労しましたね。\nそのかいあってかっこよくなりました \n（よね）"
+comment2_en = "(th5_08.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Maple Wise\" from Mystic Square. \nAs I wrote in the comments in Mystic Square, this song is a song that goes into the category where I have had much trouble in the making of the original songs.\n\nSo, because of its complex base and melody, (^^; I could not change much so it's almost the same as the original. In fact, it was my first time where I could not have made it without looking at the original MML.\n\nSo it has the imagery of the world of ice. Where the tremolo string is vibing, it feels like we are in a cold place (laugh). I was thinking at first of orchestra feel (if at all) but it is slightly different.\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_08.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 メイプルワイズ 】です。\n怪綺談のコメントに書いたように、この曲はオリジナル曲の中でもかなり苦労した部類に\n入る曲です。\n\nというわけで、ベースや副旋律が複雑でいじることが出来ませんので(^^;; 、オリジナルと\nほとんど同じとなっております。実際、元 MML を見ながらじゃないと創れなかったのは初\nめてですね。\n\nで、氷の世界をイメージしています。トレモロストリングを使用していると寒い場所のよう\nな感じがしますね（笑）。オーケストラ風に考えていましたが、微妙に（全然）違いますね。\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[09]
+name_jp = "禁断の魔法　～ Forbidden Magic"
+comment_en = "I was going for something simple, yet cool in this song. \nThis song is closest to the songs from the last game. \nIt was really easy to finish compared to \"Maple Wise\". (^^;;"
+name_en = "Forbidden Magic"
+comment_jp = "かなり分かりやすいかっこよさを目\n指しました。\n一番前回までの作品に近い曲かな。\n「メイプルワイズ」に比べ圧倒的に楽\nでした(^^;;"
+comment3_en = "(th5_09pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Forbidden Magic\" from Mystic Square. \nThe reason why it seems quiet for a boss song is because we have another boss battle after this.\n\nI feel the bass is weak compared to the arranged version. I always make it with headphones on. \nWhen I take them off, the music suddenly sounds different.\n\nIt's hard to know what I should use as a standard.\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_09pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 禁断の魔法　～　Forbidden Magic 】オリジナル版です。\nボス曲にしてはおとなしい感じがするのは、この後、もう一度ボス戦があるのを計算に入れてのこと。\n\nアレンジ版に比べると低音が弱く感じてしまうな～。いつもヘッドホンをして作っているんですけど \n外すと急に違う曲に聞こえてしまうことがしばしば。\n\nなにを基準に創ればいいのかわかりにくいですね。\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_09.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Forbidden Magic\" from Mystic Square. \nIt is a song that is awesome like a lie. Attempt to compare is out of this world (^ ^;\n\nThis arrange (doesn't feel like one) when finished sounded very cool. \nI always try my hardest to make the boss songs to be memorable and easy to remember as much as possible, as well as to tune to the nature (of the boss) · · ·. But as soon as I make my my songs, even the cutest boss will get even darker (^^;\n\n\nBy the way, speaking of the \"Forbidden Magic\" in the game, it must be the shallow shadow of a homing laser (big lie). \nAlice (Boss 3 sides, extra boss) uses such \"Forbidden Magic\" in the extra stage, but it's not like it really matters now, does it? (^^;;\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_09.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 禁断の魔法　～　Forbidden Magic 】です。\n嘘みたいにかっこつけた曲です。わりと場違い(^^;\n\nアレンジは（あんまアレンジしてないけど）小気味よく仕上がったんじゃないかと。\nいつも、ボスの曲は出来るだけ覚えやすくて、（ボスの）性格にあった曲にしたいと思って\nいるのですが・・・。私の曲にかかると、かわいいボスも暗くなってしまう(^^;;\n\n\nところで、ゲーム中のどこら辺が禁断の魔法だったのかというと、あの影の薄いホーミング\nレーザーとか（大嘘）\n設定上では、アリス（３面ボス、エキストラボス）がエキストラステージで究極の魔法を使\nっているけど、あんま関係ないやね(^^;;;\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[10]
+name_jp = "真紅の少女　～ Crimson Dead!!"
+comment_en = "The melody somehow feels like something out of SoEW. \nAll I can really remember is before I knew it, the song was done. \nIt's kind of like something from my older games."
+name_en = "Crimson Maiden ~ Crimson Dead!!"
+comment_jp = "何と無くメロディが封魔録みたい。\n取りあえずあっというまに出来上がっ\nた、ということだけ覚えています。\n昔のゲームの曲みたいかもね。"
+comment3_en = "(th5_10pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Crimson Maiden ~ Crimson Dead!!\" from Mystic Square. \nIt is a short song. The main melody is almost nonexistent, but I managed to create a boss atmosphere. \nThe fast sound alone creates the atmosphere of a boss.\n\nPersonally, I think Yuki's accelerated scattering bullets match with this song and create a good atmosphere (^^;;\n\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_10pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 真紅の少女　～ Crimson Dead!! 】オリジナル版です。\n短い曲です。メインメロディが皆無に近い曲ですが、この高速な音だけでなんとかボス雰囲気を \n醸し出しています。\n\n個人的に、ユキの加速ばらまき弾がこの曲にマッチしていい雰囲気がでてるかな～と(^^;;。\n\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_10.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nIt has been a long time since I arranged. \nThis is \"Crimson Maiden ~ Crimson Dead!!\" from Mystic Square. \nIt is a short song. But, it runs with the whim of boss battles.\n\nAlthough the original was made in haste within about 30 minutes, that made the arrangement much harder to come up. \nThe base of the arrangement is thus all new by the way. (almost no change (^^;;) \nWith the sound of cheerful bass - Do you feel a little sacredness and dashfulness, hopefully?\n\nThe fast paced organ is currently being overused in \"Shuusou Gyoku\", and is quickly becoming my favorite style (laugh) \nThis kind of feeling of the organ sound is very addicting.\n\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_10.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n久々のアレンジです。\n東方怪綺談より【 真紅の少女　～ Crimson Dead!! 】です。\n短い曲です。でも、ボス戦っぽさは抜群、かな。\n\nオリジナルは３０分くらいで速攻終了だったのですが、その分アレンジは苦労してます。\nちなみにアレンジはベースが全て新規です。（ほかはほとんど変化なし(^^;;）\n小気味の良い軽快なベースにしたつもり。軽快な中にも神聖な感じが少し感じられてもらえ\nるでしょうか。\n\nこの高速のオルガンは、現在作曲中の「秋霜玉」で多用していて、ただいまはまっています（笑）\nそんな感じでこのオルガンの音はお気に入り。\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[11]
+name_jp = "裏切りの少女　～ Judas Kiss"
+comment_en = "Compared to \"Crimson Maiden\", this one is a bit more musical.\nI figured she should be strong, since it's the 4th stage, so I gave this song that type of feel. (Which is?)"
+name_en = "Treacherous Maiden ~ Judas Kiss"
+comment_jp = "「真紅の少女」と対になっています\n若干、こっちの方が曲っぽい。\n４面ですから強敵にしようと思い、\n曲もそんな感じで（どんな？）"
+comment3_en = "(th5_11pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Treacherous Maiden ~ Judas Kiss\" from Mystic Square. \nThe rhythm of the song changes often, so the groove may be more like that of \"Crimson Maiden ~ Crimson Dead!!\"\n\nMai's spinning laser is my favorite. I had intended to make this one from the beginning. \nI wonder if I should have made it harder (laugh).\n\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_11pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 裏切りの少女　～ Judas Kiss 】オリジナル版です。\n真紅の～より曲っぽいところが多いです、その反面のリズムがよく変わるので、ノリの良さは\n真紅の～の方が多いかも。\n\nマイの回転レーザーはお気に入りです。はじめからこれは作る気でいたのですが、もっと難しく\nしてもよかったかしらん（笑）\n\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_11.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Treacherous Maiden ~ Judas Kiss\" from Mystic Square. \nIn the song of the boss (Thank you, PeChe-san for the request!!). \nFor a boss song, the melody line is quite thin. Well let's call this song within that kind of category (^^;; \nI did not think the arrange will give me too much trouble, but overall, it seems to have improved, more or less.\n\nI was thinking of arranging in Biblical style as the title implies (Kiss of Judas), but what's Biblical style in the first place? (^^;; \nI seem to have gained a bit of its conscious later on.\n\nLooks like this is the first one of 2000. I feel I will be making a song of this kind in the 2000s. Thank you in the future.\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_11.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Project第５弾　東方怪綺談より【 裏切りの少女　～ Judas Kiss 】です。\n（ぺりぃさんリクエストありがとう!!）\nボスの曲の中にはメロディラインの薄い曲が結構あったりします。この曲もやっぱり\nその一味でして(^^;; \nアレンジしてこんなに苦労するとは思いませんでした。でも、わりかしかっこ良くなった\nみたいでなにより。\n\n曲名にあるように(ユダのくちづけ)この曲を聖書風にアレンジすることもかなり考えまし\nたが、そもそも聖書風って？(^^;; \n後半ちょっと意識してますが。\n\nあと、これが 2000 年一発目です。恐らく 2000 年代の自分はこんな感じの曲を作りそう\nですね。これからもよろしくおねがいしますね。\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[12]
+name_jp = "the Last Judgement"
+comment_en = "I think I managed to make it feel pretty endgame-ish this time. \nHmm, it's pretty cool, isn't it?\nI really like it(^^)"
+name_en = "the Last Judgement"
+comment_jp = "かなり終盤っぽい曲に仕上がったか\nと思います。\nう～ん、なかなかかっこいいですね \n結構気に入ってます(^^)"
+comment3_en = "(th5_12pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"the Last Judgement\" from Mystic Square. \nIt's a cool looking song. As I wrote somewhere else, I wanted to make Yumeko and Shinki.\nI wanted to make this song visual-kei as well. \nThis song itself is the original theme of Mai... (laugh)\n\n\nBy the way, I don't think there is anything visual about the song. \nI wonder what I meant by \"visual-kei\" song (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_12pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 the Last Judgement 】オリジナル版です。\n格好いい目の曲です。どっかでも書いたように、夢子、神綺はビジュアル系のノリに\nしたかった（過去形）のでこの曲もビジュアル系にしたかったのです。\nこの曲自体は、元マイのテーマですが・・・（笑）\n\n\nところで、曲にビジュアルもへったくれも無いような気もしなくもないけど、ビジュアル系の\n曲ってなんのことでしょう（笑）\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_12.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"the Last Judgement\" from Mystic Square. \nThroughout Touhou, out of a stage field song, this ranks 1st or 2nd, perhaps?\n\nThis song was originally going to be Mai's theme, but felt that it does not fit well as well as I think I have made it perhaps far too good (^^;; thus I had promoted the piece to fifth stage theme.\n\nThe arrange of the 5th stage is to find balance in the sacred Western feel and the FM-ish game feel, (why?), and yet took the latter for direction. \nThanks to that, I feel that the finished song does not impair the image of the original.\n\nCertainly, the small fairy enemies of this stage, I remember that it was the same character in all different colors. \nThat character (ghost with wings) had a lot of animation pattern (especially skirts) so it was quite easy to remember of its patterns. \nI'm sorry, but hey, That I'm lazy (^^;;\n\nEven now, the intensity of the small fry rush is getting the best of me (laugh) \nThe boss Yumeko also suddenly appears out of nowhere (^^;; The aimed daggers fly fast as my barrier theory appears here and there ...\n\nAfter all, it was only a maid of an enemy (~yeah, right)\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_12.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 the Last Judgement 】です。\n東方シリーズの通常ステージ曲の中でノリの良さでは、１、２を競うのでは？\n\nこの曲は、マイのテーマとして作り始めたのですが、あまりにも合わない上に、結構良くで\nきてたので(^^;;めでたく５面テーマに昇格したのでした。\n\nアレンジは５面（万魔殿）のテーマということで、西洋神聖風とＦＭチックゲーム風と（何故？）\n２つ考えましたが、後者を取りました。\nおかげで、元曲のイメージをそこなわない感じに仕上がったかなと。\n\nたしか、このステージの雑魚キャラは、みんな色違いの同じキャラだった事を記憶しています。\nあのキャラ（羽付妖魔）はアニメパターンが多い（特にスカート）のでメモリ的にも厳しいか\nったので勘弁。\nでもあれはまぁ、手抜きですが(^^;; \n\nいまでも、５面ラストの雑魚ラッシュは、あの激しさは泣かされます（笑）\nボスの夢子も、突然現れて曖昧に(^^;;自機を狙う高速短剣は安定した避け方が無く\n最難関説がちらほらと・・・\n\nで、やっぱ、メイドさんは敵キャラに限るね（ぉぃ）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[13]
+name_jp = "悲しき人形　～ Doll of Misery"
+comment_en = "This was a tough one. It has the most complex chord progressions I've ever done. \nI think this is the first song I worked all day to finish. \nI wanted to make this song pretty dark, so this is how it came out. \nI like this song a lot, so I hope you'll listen to it."
+name_en = "Doll of Misery"
+comment_jp = "めっちゃ苦労しました。いままでの\n曲よりコード進行を複雑にしてみました。\n初めて日をまたいで作った曲かも\nこの曲は暗めにしようと思って作\nったので、こんな感じ。\nかなり気に入ってますんで、聞いて\nあげてくださいね。"
+comment2_en = "(th5_13pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Doll of Misery\" from Mystic Square.\n\nI tried my best to make this song sad and intense. \nI think this song is the saddest among all my songs. \nI feel like it would be sadder if I didn't use an easy slow tempo or something. \nI want to say to the erotic music industry (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_13pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 悲しき人形　～ Doll of Misery 】オリジナル版です。\n\n悲しく激しくをテーマに頑張った曲です。\n私の曲の中でも、一番悲しさを感じる曲になってる気がします。\nなんか、安易なスローテンポとかにしない方が、悲しいような気がします。\nって、エロゲー業界に言いたい（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[14]
+name_jp = "世界の果て　～ World's End"
+comment_en = "The stage is just there for you to collect some items before the final boss, so it's pretty short. \nActually, I wanted to try to do this with just a heartbeat sound, but this isn't that kind of game (lol)"
+name_en = "End of the World ~ World's End"
+comment_jp = "最終ボス前のアイテム回収の為だけ\nのステージだから、かなり短いわな。\nほんとは、心臓音だけとか無音とか\nやってみたいけど、そういうゲームで\nもないし（笑）"
+
+[15]
+name_jp = "神話幻想　～ Infinite Being"
+comment_en = "This is the last boss theme. Of course, I really put a lot of spirit into it. \nI was trying to make a song that had the right blend of coolness and cuteness. \nThe main melody is pretty easy to remember, so it has a nice feel to it. \nOverall, I'm pretty fond of it."
+name_en = "Legendary Illusion ~ Infinite Being"
+comment_jp = "最終ボスのテーマです。当然かなり\n気合いを入れて作りました。\nかっこよさとかわいさを合わせた曲\nを目指しましたね。\nメインのメロディはかなり覚えやす\nくて、いい感じなのかな。\nだいたい、気に入ってます。"
+comment3_en = "(th5_15pmd.txt from here)\n(ZUN erroneously lists this song as the Last Judgement, but the comment itself is about Legendary Illusion ~ Infinite Being)\nThank you for downloading this song.\n\nThis is the original version of \"Legendary Illusion ~ Infinite Being\" from Mystic Square.  \nThis melody (except for the chorus) came naturally when I put my hand on the keyboard. \nActually, I don't remember having any difficulties at all in the beginning. \nI think it was difficult from the middle of the song, though (^^;;;)\n\nShinki herself was difficult work in which her attacks changed two or three times (due to difficulty adjustment). \nHow about the extravagant attack before the final stage, where you are hardly allowed to move? \nIt is quite frustrating when you miss at that point (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_15pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 the Last Judgement 】オリジナル版です。\nこのメロディ（サビ以外）は、キーボードに手を置いたときに自然と生まれたという（笑）\n実ははじめは全然苦労した記憶はないですね。\n途中からは大変だったような気もしますが(^^;;\n\n神綺自体は、ボスの攻撃が（難易度調整による）二転三転した苦労作品です。\n最終段階一つ前のほとんど動くことが許されない、贅沢な（ぉ攻撃はいかがでしたか。\nあそこでミスるとかなり悔しいです（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_15.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Legendary Illusion ~ Infinite Being\" from Mystic Square. \nFinally, I've arranged the song quite faithful to the original in a long time. \nBut, I feel that it's flowing rather shallow, and at this rate it would be difficult to use in games.\n\nAs such, I have a tendency to unable to withstand the tension of such powerful boss songs (somewhat a lie), so this song also became a boss-like song only in the beginning part of it. \nI wanted to make songs that is really intimidating someday (which I could never make ((; _ ;)\n\nThe difficulty lied in the insufficient memory and of balance. (Is it not with the song?)\n\nSo Shinki and Yumeko, unlike the other characters, I wanted to portray them with a great impression (in drawing AND songs). but because the author was such a guy, they became similar characters like the rest. \nThe white silver hair and the six blades of wings was to say a little, an attempt for difference (sweat)\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_15.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 神話幻想　～ Infinite Being 】です。\n久しぶり元曲に忠実っぽくアレンジしました。\nでも、さらっと流れていく感じになっているので、このままではゲームには使いにくいかな。\n\nで、私は緊迫感のある曲は作ってる途中で緊迫感に耐えられなくなってしまうので（やや嘘）\nこの曲もイントロだけボス戦っぽい曲になってます。\n本当は威圧感のある曲も作ってみたかったです（作れなかった(;_;）\n\n苦労した点としては、メモリ不足とバランスですね。（曲のことではないのか？）\n\nでで、神綺と夢子のペアは、今までのキャラと違って（絵も曲も）ビジュアル系にしたかっ\nたのですが作者が作者なんで(^^;いつもの様になってしまいましたね。\n白銀色の髪や、途中から生える６枚の翼もその名残だったりもします（汗）\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[16]
+name_jp = "不思議の国のアリス"
+comment_en = "Fairy tale-esque and cool is what I was going for this time.\nWell, it's probably not fairy tale-esque, but it's pretty coooool.\nYou have to dodge lots of bullets in the game, so you probably can't listen to it too closely, though. (lol)"
+name_en = "Alice in Wonderland"
+comment_jp = "メルヘンっぽくて、さらにかっこい\nい曲を目指してつくりました。\n出来上がってみるとあんまメルヘン\nっぽくないけど、かっこいい～。\nゲーム中は弾避けに忙しくて、あんま\n曲聞いてる余裕無いかも（笑）"
+comment3_en = "(th5_16pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Alice in Wonderland\" from Mystic Square. \nI tried to create a fairy tale techno-style with the image of a piano piece. \nI'm not sure if I'm aiming for something that I don't understand(^^;;\n\nThe reason why I chose this kind of music for the stage is because I really wanted to make it (laugh) \nFairy tale techno.\n\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th5_16pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 不思議の国のアリス 】オリジナル版です。\nピアノ曲をイメージして、メルヘンテクノをめざしました。\nって、そんなわけわからんもの目指されてもな～(^^;;\n\nなんで、弾幕ステージにこういう曲かっていうと、非常に作りたかったからです（笑）\nメルヘンテクノ。\n\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th5_16.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Alice in Wonderland\" from Mystic Square.\n\nThis is just my style. A perfect song to listen to in Danmaku games (big lie). the original song is about 2.5 times longer with loop, but the arrangement made it a lot faster. But the tempo become a little slower.\n\nRecently, I can't help but feel like the melody has fixed itself. It must be \"Fantastica\" that I'm feeling. This, is Touhou?\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_16.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Project第５弾　東方怪綺談より【 不思議の国のアリス 】です。\n\n作者お気に入りの一つです。弾幕シューティングにぴったりの（神嘘）曲です\n元の曲はこの2.5倍位、ループがしつこかったのですが、アレンジでずいぶんと\n展開が速くなりました。でも、テンポはちょっとスローになってるのかもしれな\nいけど。\n\n最近、曲調が定着してしまったような気がしてならない。かなり、\n「ふぁんたすてぃか」な気がするけど。えっ、東方？\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[17]
+name_jp = "the Grimoire of Alice"
+comment_en = "Compared to my other extra stage boss themes, this has heavy emphasis on the rhythm. \nNo matter how cheap their attacks are, emerge victorious with a superior groove (^^;;"
+name_en = "the Grimoire of Alice"
+comment_jp = "今までのエキストラボステーマ曲に\n比べ、結構ノリ重視にしてみました。\nどうみてもインチキみたいな攻撃し\nてくるけど、ノリ良く倒していきまし\nょう(^^;;"
+comment2_en = "(th5_17pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Grimoire of Alice\" from Mystic Square.\n\nThis is easy to understand(^^; \nIt is a song that is played in the game and is intended to avoid the extra barrage in a rhythmic manner. \nIt is a song to avoid extra barrage in a rhythmic way.\n\nI haven't created many simple songs like this recently (lie)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_17pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 Grimoire of Alice 】オリジナル版です。\n\nこれはわかりやすいね(^^;\nゲーム中は延々とさらっと流れて、リズムよくエキストラ弾幕を避けるように\nし向けた曲です。\n\n最近、こういう単純な曲ってあんま創ってないんだよね（嘘）\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[18]
+name_jp = "神社"
+comment_en = "It sounds like all my other good endings, but it's the bad ending. (lol)\nWell, I guess that's just because all my good ending themes were kind of dark."
+name_en = "Shinto Shrine"
+comment_jp = "いままでのグッドエンドの曲みたい\nだけど、バッドエンド（笑）\nまぁ、いままでのグッドの曲が暗かっ\nただけなんだけど。"
+
+[19]
+name_jp = "Endless"
+comment_en = "We've got unusually forceful ending themes this time. (lol)\n\nBut it's very shrine-like. (^^;"
+name_en = "Endless"
+comment_jp = "妙に迫力のあるエンディングテーマ\nだったりする（笑）\n\nでも神社っぽいよね（^^;;"
+
+[20]
+name_jp = "久遠の楽園"
+comment_en = "I wanted to make something like a piano solo, but... \nYeah... (lol) \nIt totally ends right in the middle, though..."
+name_en = "Eternal Paradise"
+comment_jp = "ピアノソロっぽくしてみたんだけど\nう～ん（笑）\n途中で完全に曲が終わってるんですけ\nど・・・"
+
+[21]
+name_jp = "Mystic Dream"
+comment_en = "It's a very short song. \nStill, it's because I wanted to match what was happening on the screen with the music. \nIn other words, it means there isn't much staff (so the staff roll is short). (lol)"
+name_en = "Mystic Dream"
+comment_jp = "結構短い曲ですね。\nそれも、画面と曲のタイミングを合わ\nせたかったからです。\nつまり、スタッフが少ない（スタッフ\nロールが短い）ってことですね（笑）"
+
+[22]
+name_jp = "魂の休らむ所"
+comment_en = "I tried making it fairly Japanese-sounding. \nFrankly, I feel like there should've been more Japanese-esque songs in the game, but... (lol)"
+name_en = "Soul's Resting Place"
+comment_jp = "かなり、和風にしてみました。\nこのゲーム、本来なら、もっと和風な曲\nがもっとあってもいいような気もする\nが・・・（笑）"
+
+[23]
+name_jp = "Peaceful Romancer"
+comment_en = "I figured I'd do a nice, rhythmical Japanese piece as rehabilitation. \nThe rehabilitation failed. (lol) \nBut I really like the song. (^^) \nI guess I just really like this kind of song (since I can only make this kind)."
+name_en = "Peaceful Romancer"
+comment_jp = "軽快で和風な曲をリハビリがてら作\nろう、と思って作ったんだけど。\n　　　リハビリ失敗（笑）\nでも曲はとってもお気に入り(^^)\nやっぱ、私はこういう曲が好きみたい\nです（こういう曲しか作れない）"
+comment3_en = "(Th05_22.M (Internal music file))\n Mystic Square's Extra Ending\nI can't get enough of Japanese style (crying)"
+comment3_jp = "(Th05_22.M (Internal music file))\n怪綺談エキストラエンディング\n和風になりきらない（泣)"
+comment2_en = "(th5_21.txt from 東方幻想的音楽)\nThank you for downloading this song.\n\nThis is \"Peaceful Romancer\" from Mystic Square.\n\nSince the song was too different, too, I eventually had it reworked again. \nAt the end of the day, this song was my last in composing using FM sound. This is actually where I was going to seal my Doujin activities by the mark of this song, but no matter what I do, I could not wash my hands clean (^^;\n\n\nSince it would have been the last, I was enthusiastically working myself for composing a bright and Eastern song, (^^;; but the arrange ended up with a dark feeling of sadness and apathy. (song was not bright after all)\n\nAnyways, this is a finale ending song where Touhou Project itself lowers its curtains, and is quite emotional. \nYes, it's true that this song is quite sad that so few people will ever get to hear it since it cannot be heard unless Extra Stage is cleared (^^;\n\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th5_21.txt from 東方幻想的音楽)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方怪綺談より【 Peaceful Romancer 】です。\n\nあまりにも別の曲になりすぎたので、結局もう一度作り直してしまいました。\n\nなんと言っても、私はこの曲を最後にＦＭ音源で作曲をしていません。\n事実上この曲を最後に私の同人活動も封印したつもりだったんですが、足を洗えぬ\nものよのう(^^;\n\n\n当時この曲は、最後だから明るくて軽快で東洋風な曲を創ろう、と意気込んで、結局\n明るくならなかった曲ですが(^^; 、アレンジではどこか切なさすら感じてしまう様な\n暗めの曲に仕上げました。\n\nとにかく、これは東方Project そのもののエンディング曲の様な物で感慨深いですね。\nもっとも、エキストラステージクリアしなければ見れない、という見た人少なそうな\nなかなか寂しい曲ですが(^^;\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"

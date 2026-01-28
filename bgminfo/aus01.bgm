@@ -1,0 +1,234 @@
+﻿# Music Room Interface Info
+# Tags for the Akyu's Untouched Score vol.1 release
+
+[game]
+name = "幺樂団の歴史1 ~ Akyu's Untouched Score vol.1"
+name_en = "History of Yougakudan 1 ~ Akyu's Untouched Score vol.1"
+circle = "Team Shanghai Alice"
+artist = "ZUN"
+year = 2006
+gamenum = "01"
+
+packmethod = 0
+
+tracks = 30
+
+[update]
+wikipage = "Lotus_Land_Story/Music"
+wikirev = 471861
+
+[01]
+name_jp = "幻想郷　～ Lotus Land Story"
+comment_en = "It's the usual. And we've just about had them enough already (^^;; \nI wonder what makes a song Japanese-styled. \nHm, well, I do like the song itself quite a bit, but... \nNot much else, aside from the fact that it doesn't really match the title screen (^^;;; \nWell, I suppose even that (not matching the title picture) is a trademark of this series (^^; (Not really)"
+name_en = "Gensokyo ~ Lotus Land Story"
+comment_jp = "あいかわらずです。もういいんですけどね（^^;; \nどういった曲が和風なんでしょうね。\nう～んこの曲自体は結構好きなんですが・・・\nタイトルの絵と合わないことこの上無いですね（^^;;; \nまぁ、それ（絵と合わないこと）こそが、このシリーズの味なのかも（^^; （そんなことない）"
+
+[02]
+name_jp = "Witching Dream"
+comment_en = "Weeell. This song turned out kind of a pretty cool one. But, it might be a little too dark. \nThere's that drum pattern in the second half that's almost out of desperation. Just a little. \nYep. Ah, well."
+name_en = "Witching Dream"
+comment_jp = "う～ん。ちょっとかっこよさげな曲になりましたね。 でも、ちょっと暗すぎかな。\n後半、やけになった様なドラムパターンがあります。ちょっと、やけ。\nう～ん。まぁその。"
+comment3_en = "(th4_02pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Witching Dream\" from Lotus Land Story.\n\nI think it is a little too dark for the first stage. But I don't know why Touhou songs are always like this (personal preference).\n\nReimu also doesn't sound like a shrine maiden because I created this song (laugh) \nThis song may be a representative of that.\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_02pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 Witching Dream 】オリジナル版です。\n\nＳＴＧ１面なのに、ちょっぴり暗すぎるような気もします。\nでも、東方某ってなぜかこういう曲ばっかだったりする（個人的な好み）\n\n霊夢も、私が曲を創ったばっかりにまるで巫女さんっぽくない曲になっちゃいましたね（笑）\nこの曲はその代表の様なものかも。\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_02.txt from here)\n Thank you for downloading this song.\n\nThis is \"Witching Dream\" from Touhou 4: Lotus Land Story. \nIn actuality, this music was fitted with my number one personal image of Reimu in mind, and the arrangement is my own special way of exploding the image of Touhou (haha) and since it was considerably arranged, I hear it as something different from the original tune, and so, best regards (^^;.\n\nIndividually, I think, I probably made it a tune closely matched with the shrine maiden. \nBut, to say, to what extent are there people who would nod in agreement (haha) \nIt is the lowest, but if a Reimu-like one was done, it would be a particularly strange place (^^;;\n\nSo, perhaps the image might be considerably different from the original music, but either way, it could be said that the image given by the original music was more different (sure it is) \nFor this kind of reason, since it's a favorite, it is even alright as a BGM in a game without BGM (haha)"
+comment2_jp = "(th4_02.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Priject第４弾　東方幻想郷より【 Witching Dream 】です。\n実はこの曲、一番自分的に霊夢のイメージに合っていたので、アレンジでは自分なりの\n東方イメージを爆発させてみました（笑）かなりアレンジしてあるので、元曲とは別物\nとして聴いていただいても、よろしくってよ(^^;。\n\n個人的には、巫女さんにぴったりな曲にしあがったんじゃないかと思っています。\nでも、それにうなずいてくれる人がどれだけいるかって言うと（笑）\n最低でも、霊夢っぽさは出てるかと、特に変な所とか(^^;;\n\nで、元曲とかなりイメージが違うかもしれないけど、どっちかって言うと、元曲の方が\nイメージが違ったと言えます（なんだそりゃ）\nそんなわけで、お気に入りですんでＢＧＭのないゲームのＢＧＭにでも（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[03]
+name_jp = "Selene's light"
+comment_en = "This is a pretty cute song, isn't it? \nI guess the kind of cute that you'd say fits a witch girl? (No way, it's definitely not.) \nI always write my songs pretty haphazardly, so I never really have any idea how they'll turn out.\n\nI do seriously put some thought into the theme, but... \n(By the way, this is a pretty cute song (^^;)"
+name_en = "Selene's light"
+comment_jp = "これは、かわいい曲です、よね？\n魔法使いの少女っぽい、っていうのは、こんなの？ （う～ん。ぜったいちがうと思う）\nいつも、いきあたりばったりで曲をかくもんで、どんなのが出来るのか分かりません。\n\n一応テーマは考えるんですが・・・\n（ちなみに、この曲はかわいい曲（^^;）"
+
+[04]
+name_jp = "装飾戦　～ Decoration Battle"
+comment_en = "The first boss song is pretty hard. It's popular for boss music nowadays to be dignified, but as you can see, most of the bosses in this series are cute girls, so I try to make their songs cool. \nSo, why are the first boss songs hard, well, it's actually pretty easy for me to make a cool (sounding) song most of the time (I think). But, if the first stage boss theme is really cool, I don't have anything left over for the rest of the songs, and end up making something really weird - that's my pattern. \nSo, it's a pretty serious problem. Well, what do you think of this song? (^^;;"
+name_en = "Decoration Battle"
+comment_jp = "１面のボスの曲って難しいです。普通、ボスの曲は重厚な曲が主流ですがこのゲームは、ボスは見た目可愛い少女が主なので、かっこいい曲にしています。\nで、なんで１面の曲が難しいかというと、かっこ（だけ）いい曲って、結構楽なんです（私にとって）でも、１面のボスの曲をかっこよくすると、あとが持たんので、変わった曲にするのが私のパターンなんです。\nだから、大変なんですよ。で、この曲はどうですか？（^^;;"
+
+[05]
+name_jp = "Break the Sabbath"
+comment_en = "The patterns in this song are similar to those from last time. \nIt starts bit-by-bit and goes pah-pa pah-pa (mysterious) \nIt was actually pretty easy to make, so it didn't leave a strong impression (^^;"
+name_en = "Break the Sabbath"
+comment_jp = "この曲は、前作の曲のパターンに似てますね。\nはじめちょろちょろなかぱっぱぱっぱですね（謎）\nぜんぜん、作るの苦労してないので、印象薄いです（^^;;"
+
+[06]
+name_jp = "紅響曲　～ Scarlet Phoneme"
+comment_en = "My boss songs are basically short. If they're long, you might not be able to hear the whole thing. (^^; \nI was going for a song that would evoke the image of a westernized demon, but... ? \nWell, it has a nice feel (^^"
+name_en = "Scarlet Symphony ~ Scarlet Phoneme"
+comment_jp = "ボスの曲は、基本的に短い曲です。 長くても、最後まで聞けないかもしんないからです（楽だから？（^^; \nこの曲は、出来るだけ西洋の悪魔をイメージした曲をめざしたんだけど・・？\nまぁ、良い感じやね（^^"
+
+[07]
+name_jp = "Bad Apple!!"
+comment_en = "This song feels like my older songs. \nWell, since it started turning out weird, I did try to make it at least sound like something I might have written long ago ... \nIt's nice to have something this rhythmical(?). And, it's very 3rd-stage-ish(??)..."
+name_en = "Bad Apple!!"
+comment_jp = "この曲は、昔の私の曲みたいです。\nまぁ、どんどん変な曲になってくんで、出来るだけ昔っぽい曲をめざしたんですけど・・・\nいいですよね、こんくらい軽快（？）なの。３面っぽい（？？）し・・・"
+
+[08]
+name_jp = "霊戦　～ Perdition crisis"
+comment_en = "I kind of like this song. \nThe stage 3 boss is kind of strong. The song has the same feel to it. \nShe may look strong, but the song gives you the feeling you'll definitely win(?)"
+name_en = "Spirit Battle ~ Perdition crisis"
+comment_jp = "ちょっと、おきにいりだったりする。\n３面のボス、ちょっと強い。曲もそんな感じ。\nつよそうだけど、絶対勝ちそうなボスっぽい曲だよね（？）"
+comment3_en = "(th4_08pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Spirit Battle ~ Perdition crisis\" from Lotus Land Story.\n\nElly was created with the image of a god of death. The music has a certain intensity to it.\n\nAt the beginning of the second stage, a series of fan-shaped bullets from the right + a series of fan-shaped bullets from the left after a delay, which at first glance looks unavoidable as the rank goes up. But actually, all the first fan-shaped bullets from the right will not hit you unless you move from where you were when they hit you (did you know that?). \nBy the way, if you don't do that, there is no way to avoid the attack from the left (laugh).\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_08pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 霊戦　～ Perdition Crisis 】オリジナル版です。\n\nエリーは、死神のイメージで作成しました。\n曲もそれなりの迫力をもたせてあります。\n\n第２段階はじめの、右から扇形弾連弾＋遅れて左から扇形弾連弾はランクが上がると、一見\n避けようがないようにみえます。でも実は、最初の右から来る扇形弾は全て、撃たれたときの\n場所から動かなければ当たりません（知ってました？）\nちなみに、それをやらないと、左からの攻撃は避けようがございません（笑）\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_08.txt from here)\nThank you for downloading this song.\n\nThis is \"Spirit Battle ~ Perdition crisis\" from Touhou 4: Lotus Land Story.\n\nI've arranged it so it'd be fantastic. \nThe original plan was to make it hard rock style with guitars going loud, but personally I'm not good with guitars (sweat), so I decided not to make it rock style. \nAs a result though, I think it turned out good because of the stylish atmosphere it got.\n\nMaybe it can be used in the game as it is. Of course in shoot 'em ups (^^;;\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_08.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Priject第４弾　東方幻想郷より【 霊戦　～ Perdition Crisis 】です。\nファンタジックにアレンジしてみました。\n\n当初の予定では、ギターバリバリのハードロック調にする予定でしたが、個人的に\nギターをうまく使えないので（汗）、結局、ロック調にするのはやめました。\nでも、結果として、おしゃれな雰囲気になってよかったと思ってます。\n\n結構このままでもゲームに使えるんじゃないかしらん。もちろんＳＴＧに(^^;;\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[09]
+name_jp = "アリスマエステラ"
+comment_en = "I imagined a cool-looking Western-style mansion while making this song, and it ended up turning into something I really don't understand (^^; \nBut, I think it has an altogether different atmosphere from the the other songs... \n(Or maybe it's the same (^^;;;)"
+name_en = "Alice Maestra"
+comment_jp = "この曲は、かっこいい洋館をイメージして、結局わけのわからん曲になった曲です（^^;\nでも、他の曲とちょっと違った雰囲気があると思うんだけど・・・\n（いっしょかも（^^;;;）"
+comment3_en = "(th4_10pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Alice Maestra\" from Lotus Land Story.\n\nI wanted to do a western mansion once, so I did it. I added Alice later on because ESP was released while I was working on Lotus Land Story. I added a lot of Alice later.\n\nBut compared to the other songs in Lotus Land Story, the melody of the chorus of this song is really Japanese. \nIf you create it in Japanese style with this melody, it is truly Touhou (^^;;\n\nThe dissonance in the intro is my favorite (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_10pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 アリスマエステラ 】オリジナル版です。\n\n西洋屋敷は、一度やってみたかったのでやってみました。幻想郷の制作中にエスプが発売されたので\n後からアリスを付け加えました。それも大量に（笑）\n\nでも、この曲って幻想郷の他の曲に比べ、サビのメロディは実に和風ですよね。\nこのメロディで和風に創れば、まさに東方(^^;;\n\nイントロの不協和音がお気に入り（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_10.txt from here)\nThank you for downloading this song.\n\nThis is \"Alice Maestra\" from Lotus Land Story. \nI tried to arrange in the style of West. Well, the original was already western-style (^^;\n\nThis song is a personal favorite. (Most favorite actually (^^;;)\n\nIn the original plan, I was going to have a clean finish to the atmosphere, but when I finished it wasn't at all (^^;;;\n\nIndeed, it's the Alice system, well, it is a good melody in its specialty.\n\nAnyway, as usual, it is a game-like melody. Of course, that's I'm aiming for. \nAnd incidentally, it is girly (^^;\n\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_10.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 アリスマエステラ 】です。\n西洋風にアレンジしてみました。つーか、元から西洋風に作ったつもりですが(^^;\n\nこの曲は個人的に激お気に入りでした。（それにしてもお気に入りの多い(^^;;）\n\n当初の予定では、すっきりした雰囲気に仕上げるつもりでしたが、できあがってみると\n全然違う(^^;;;\n\nまさに、アリス系の、まぁ、お得意中のお得意なメロディですね。\n\nそれにしても、いつもながらメロディがゲームっぽいです。もちろん、ねらってですが。\nついでにいうと、少女っぽいですね(^^;;\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[10]
+name_jp = "少女綺想曲　～ Capriccio"
+comment_en = "Yeah. I really like this song. \nThe biggest problem, is no matter who listens, it's just not a shrine maiden song at all (^^; \nBut, I think this song best expresses the atmosphere of this game. \nIt's a little cute, too."
+name_en = "Maiden's Capriccio ~ Cappriccio"
+comment_jp = "う～ん。実はお気に入りだったり。\n最大の問題は、誰がきいても巫女さんの曲じゃない、ってところですね（^^; \nでも、私の心の中ではこのゲームの雰囲気には、この位でちょうどいいかと。\n妙にかわいい曲調だったりする。"
+comment3_en = "(th4_09pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Maiden's Capriccio ~ Cappriccio\" from Lotus Land Story.\n\nI think I did a good job of bringing out the FM sound quality of the song(^^;;\n\nI don't know why, but when I create Reimu's theme, it suddenly becomes less and less Touhou-like. \nSo, I ended up with a fantastic shrine maiden.\n\nThe bosses on the 4th stage, Reimu and Marisa, are characterized as having completely patterned attacks, while Marisa's attacks are completely random. \nWhich boss was easier to avoid?\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_09pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 少女綺想曲 】オリジナル版です。\n\nＦＭ音源っぽさがよく出せたと思います(^^;;\n\nなぜか、私が霊夢のテーマを創ると急に東方っぽく無くなってしまいます。\nそんなわけで、ファンタジックな巫女さんになってしまいました。\n\n４面ボス、霊夢、魔理沙の攻撃は、霊夢は完全パターン攻撃、一方魔理沙は完全ランダム攻撃、と\nキャラ付けをしました。\n皆さんはどちらのボスの方が避けやすかったでしょうか？\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_09.txt from here)\nThank you for downloading this song.\n\nThis is \"Maiden's Capriccio ~ Cappriccio\" from Touhou 4: Lotus Land Story. \nI have arranged this as a test. Very hard task actually(^^;; \nThe melody might be a difficult to listen to if you were using a software synthesizer. \n\nThen in fact, this is a theme of a shrine maiden(^^;;\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_09.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Priject第４弾　東方幻想郷より「少女綺想曲　～ Capriccio」です。\nこれは、試しにアレンジしてみました。割と大変です(^^;; \nソフトシンセなどで聞くと、旋律が聞き取りにくいかも。\n\nで、実は巫女さんのテーマだったりする(^^;;\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[11]
+name_jp = "星の器　～ Casket of Star"
+comment_en = "It's hard to make weirder songs than this. \nThe intro has a kind of boss-ish feel to it. \nIt has a bit of a somber feel to it. \n(Hm, I wonder, yeah)"
+name_en = "Vessel of Stars ~ Casket of Star"
+comment_jp = "これ以上に妙な曲は難しいですよ。\nイントロに、ボスっぽいものを感じます \nちょっと、重厚な感じがしますよね。\n（そうかな～、う～ん）"
+comment3_en = "(th4_11pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Casket of Star\" from Lotus Land Story.\n\nMarisa is also a main character, so I was determined to create a surprising song. I think it has a mysterious uplifting feeling as a stage boss.\n\nMarisa is the only special boss in Touhou that has no rules, and her attacks do not change even if she changes boss stages.\n\nThere are many mysterious attacks, but Marisa's system is not well known~ (laugh)\n\n*The boss's defense is as high as the number of bits.\n*The durability of each bit is different.\n*When 4 bits are destroyed, the boss will go crazy for the rest of the turn and the next turn.\n*After the four bits are destroyed, the boss attacks with a frenzy for the remainder of the turn and the next turn.\n*The number of turns is somewhat random.\n*The four bits, if you look closely, are the symbols of different religions.\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_11pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 星の器　～ Casket of Star 】オリジナル版です。\n\n魔理沙も主人公格キャラなので意表をついた曲を創ろう、と意気込んで創りました。\nＳＴＧボスとしては不思議な高揚感が出ていると様な気がします。\n\n魔理沙は、法則性が無く、ボス段階変化しても攻撃に変化は特にない、東方唯一の特殊ボスです。\n\nなにかと謎な攻撃が多いけど、以外と知られていない魔理沙のシステム公開～（笑）\n\n・ビットの数だけボス本体の防御力が高い\n・ビットの耐久力はそれぞれ違う\n・４つのビットを破壊すると、そのターンの残りと次のターンは発狂攻撃をする。\n・発狂後から次のビットを装着までしおしおな攻撃をする。\n・そのターン数はややランダムである。\n・４つのビットは、よーく見るとそれぞれ別の宗教のマークになっている（笑）\nて、感じ。\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_11.txt from here)\nThank you for downloading this song.\n\nThis is \"Vessel of Stars ~ Casket of Star\" from Touhou 4: Lotus Land Story. \nTh-this song is going crazy in every sense. (laugh) \nEspecially the drums, tempo and the chorus change at rapid speed making you want to say \"what's the matter with you?\". \nWell this could be cool too (^^; But I think you can't catch up how the song goes by only listening it to once or twice. If it's okay, please listen for it several times.\n\nTo tell the truth, I wasn't originally intending to split the fourth boss's theme (Reimu, Marisa) of Lotus Land Story, but I ended up doing it because I had time to do it. And at the time, I was planning to make Reimu's Eastern-like and Marisa's Western-like but.... \nAnyway, I've arranged it wildly so that it wouldn't ruin the overflowing wildness of the original song. \n\nSetting those aside, I've been making really unorthodox music, so if they were out of the listeners' taste, I suppose my songs are all no good (^^;;; \nI wish that these song (even part of them) would be accepted by the people. (laugh)\n\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_11.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方Priject第４弾　東方幻想郷より【 星の器　～ Casket of Star 】です。\nこ、この曲は、あらゆる意味でめちゃくちゃキテますね（笑）\n特に、ドラムとテンポとサビが「どうしちゃったの？」って位ハイスピードに変化します。\nまぁこれもかっこいいかもね(^^;でも、恐らく１，２回聴いただけでは展開についていけ\nないかも。よろしければ何度か聴いてやってくださいね。\n\n実は、もともと幻想郷の４面ボス（霊夢、魔理沙）は曲を分けるつもりは無かったの\nですが、時間が余って２つに分けたのでした。その時、霊夢の方は東方っぽく、魔理沙\nの方は西洋っぽくするつもりだったんだけど・・・\nまぁ、元曲のあふれんばかりな激しさを、崩さないように激しくアレンジしてあります。\n\nそれにしても、ものすごく偏った曲ばっか作ってますけど、聴く皆様の守備範囲外だった\nりすれば、私の曲は全てダメなんだろうな～(^^;;; \nこれらの曲が（一部でも）皆様に受け入れてももらえる祈って（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[12]
+name_jp = "Lotus Love"
+comment_en = "I had no idea what this was when I made it, but it's grown on me now. \nOnce you get used to it, you can see how it's quite cool, and how it has quite a nice feel. Quite. \nThe stage is short, too, so in-game the song only loops once. Poor thing."
+name_en = "Lotus Love"
+comment_jp = "最初、作ったときはなんだこりゃ、と思っていましたが、今はなれました。\nいざ、聞きなれると結構かっこいいことが分かり、結構いい感じです。結構。\n面も短いので、ゲーム中、曲は１ループしかしません。ちょっとかわいそう。"
+
+[13]
+name_jp = "眠れる恐怖　～ Sleeping Terror"
+comment_en = "I'm usually pretty haphazard in my song writing, but this time I pretty much had the thing all planned out (in my head) before I got started. \nI don't think I use this type of bass pattern very often, though. \nBut, I didn't have many voices in the 26 version, so it didn't come out all that well (;_;"
+name_en = "Sleeping Terror"
+comment_jp = "いつもは、いきあたりばったりですがこの曲はめずらしく、だいたい出来上がってから（頭のなかで）書きました。\nちょっと自分にしてはベースパターンが珍しいです。\nただ、２６ヴァージョンは、音が少なくて余りうまく出来ませんでした（;_;"
+comment3_en = "(th4_12pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Sleeping Terror\" from Lotus Land Story.\n\nI've been creating music for stages as I like. \nI'm creating whatever I want to(^^;;\n\nThe game was set up so that the player would not be able to proceed to the final stage if he or she lost the game, so the attacks were relatively easy. \nI tried the almost screen large pole laser because I wanted to try it someday. \nI hope you got hit at least once (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_12pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 眠れる恐怖　～ Sleeping Terror 】オリジナル版です。\n\nここら辺まで来ると、ＳＴＧの曲ってなにやっても良いんだ、と思ってしまうほど\n好き勝手創っているように(^^;;\n\n幽香は、これに負けると最終面に進めない設定になっていたので比較的やさしい攻撃ばっかでしたね。\nほぼ画面大極太レーザーは、いつかやってみたかったのでやってみました。\n一度はやられてもらえたでしょうか（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_12.txt from here)\n Thank you for downloading this song.\n\nHave I kept you waiting? m(_ _)m \nThis is \"Sleeping Terror\" from Lotus Land Story. \nIt's not much of an arrangement. It develops the same as the original tune.\n\nThis is a little atypical among Touhou boss music (I think). \nAs for why this is, I decided from the start of Lotus Land Story's development that the Stage 5 boss would be the final boss, but half-asleep (and in a negligee). (How is this relevant? (^^;;）\n(In truth, I originally wanted the background to be her bedroom, with a bed placed in there and everything, but I gave up because of VRAM limitations and odd character scaling.)\n\nDue to this and that, the slightly weird Yuuka was born.\n\nSince the song originally had a charming mood to it, I aimed at emphasizing that area. \nIt turned out cute, maybe? (Did it really? (^^;;）\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_12.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\nお待たせいたしましたm(_ _)m\n東方幻想郷より【 眠れる恐怖　～ Sleeping Terror 】です。\nアレンジ自体は、ほとんど施していません。元の曲と同じ展開です。\n\n東方のボス曲の中ではちょっと異形な曲（だと思っている）です。\nそれは何故かっていうと、幻想郷立ち上げ時のイメージで、５面ボスは絶対に\n睡眠中（ねぐりじぇ姿）のラスボスにしよう、と決まっていたからです（関係ない?(^^;;）\n（ほんとは、背景を寝室にしてベットを置いて本格的にしたかったですが、\nVRAM の空きや人物のスケールからきつかったんであきらめましたが）\n\nそんなこんなで、ちょっとおかしな幽香が生まれたりうまれたり。\n\n曲は、かわいげのある風な曲だったので、そこら辺を強調した曲をめざしました。\nたぶんかわいいかと （かわいいのか?(^^;;）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[14]
+name_jp = "Dream Land"
+comment_en = "This is a very short song (^^; \nI think it came out very lonely-sounding, too (^^;;; \nWell, in any case, is it, I wonder? \nKind of. Uja~"
+name_en = "Dream Land"
+comment_jp = "これは、短い曲ですね（^^; \nちょっと、切ない雰囲気になっちゃったけど（^^;;; \nまぁ、これはこれでアリかなぁと。 \nまぁその。うじゃ"
+
+[15]
+name_jp = "幽夢　～ Inanimate Dream"
+comment_en = "The last boss theme. It has a very final feel to it. \nI think it came out pretty cool somehow~ \nNobody really knows if Yuuka herself is cool. \nPersonally, I think I rather like her."
+name_en = "Faint Dream ~ Inanimate Dream"
+comment_jp = "ラスボスのテーマです。これはラストっぽいよね。\nなんか、かっこよく出来たかな～と。\n幽香自体はかっこいいかどうかは、謎。\n自分にとっておきにいりかと。"
+comment3_en = "(th4_15pmd.txt from here)\nThank you for downloading this song.\n\nThis is the original version of \"Faint Dream ~ Inanimate Dream\" from Lotus Land Story.\n\nIt's pretty good, but... there isn't much variety to it, to be honest(^^; \nIt sure sounds like a song fitting for the last boss, doesn't it? \n...I might've gone overboard with the inflections(^^;\n\n\n\nWell then, let us meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_15pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 幽夢　～ Inanimate Dream 】オリジナル版です。\n\nいい感じに、今と変わらないですが(^^; \nこれって、ラスボスというか、なんというかって曲だよねぇ。\n逆に屈折してないところがあうのかも(^^;\n\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_15.txt from here)\nThank you for downloading this song.\n\nThis is \"Faint Dream ~ Inanimate Dream\" from Lotus Land Story. \nIt was an arrangement work that I hadn't done in a quite time, and it was pretty fun to do.\n\nI aimed it to get the feeling of the battle version of Yuuka's first theme \"Sleeping Terror\". \nHow it not having a glimpse of profoundness for a final boss, makes it sound like my doing. \nI have made it in techno style in purpose. \nThere sure are many games that have classical style in the last, aren't there? (Hard rocks too)\n\n\nSetting that aside, it's a mysterious song. \nThe verse part was more impressive than the chorus, so I arranged it getting inspiration from that....\n\n\nBy the way, does \"Inanimate Dream\" mean anti-Animate dreams? (^^;\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_15.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 幽夢　～ Inanimate Dream 】です。\n久しぶりのアレンジ作品でなかなか楽しかったです。\n\n幽香のテーマ１【 眠れる恐怖 】のバトル版という雰囲気を目指しました。\nラスボスにしては重厚さの欠片もないあたりが私っぽい。\n意図的にテクノ調にしています。\n最後はクラシック調のゲームって多いもんね。（ハードロックも）\n\n\nそれにしても、不思議な曲。\nサビより通常部分の方が印象的だったので、そこら辺をインスパイアしたアレンジを\nしてみたんだけど・・・\n\n\nところで、Inanimate Dream とは反アニメイトの夢？(^^;\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[16]
+name_jp = "禁じざるをえない遊戯"
+comment_en = "I made this one fairly rhythmical (not) \nThe main part is pretty simple, so it feels nice. I get the feeling listening to it that this is how my songs are most of the time. \nI like songs like this, but sometimes I want to write something with a different atmosphere."
+name_en = "The Inevitably Forbidden Game"
+comment_jp = "すこし軽快な曲にしました（うそ）\nサビはかなり単純だからいい感じです。やっぱり、自分の曲のパターンはこれかい、って感じですかね。\nこういう曲好きだけど、他の雰囲気の曲も作れるようになりたかったり。"
+comment3_en = "(th4_16pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"The Inevitably Forbidden Game\" from Lotus Land Story.\n\nI honestly typed out the tune that comes to mind when I create a song. \nI think the easy to understand chorus turned out to be very cool. The arrangement is also that cool, I hope you enjoy the arrangement as well(^^;;\n\nI think that the white bullet before the boss battle was very difficult to produce. \nIt might be difficult to get over the boss with only one bomb, so it might be tough if you don't know the pattern. \nIn fact, there is a perfect rule for how to shoot, so it is possible to make a pattern. Since the bombs are omni-directional and aimed at the target's own ship, they will not hit the target if it is moving. \nIf you are moving, you won't be hit, but the bullets will be fired suddenly from an empty space, and at the end, the point of firing will come at your ship. \nThe pattern is necessary because the bullets are fired suddenly from an empty space and the firing point is aimed at the ship at the end. But I can't explain the pattern in writing (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment3_jp = "(th4_16pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 禁じざるをえない遊戯 】オリジナル版です。\n\n私が曲を創るときに思い浮かべる曲を、素直に打ち込みました。\n分かりやすいサビは、非常にかっこいいものになったと思います。アレンジもその格好良さ、\nわかりやすさを壊さないようにアレンジされてますので、そちらも是非(^^;;\n\nそれにしても、ボス戦前の演出白弾は以外と難しかったのではないでしょうか。\nあそこは、ボム一つでは越せない可能性があるのでちょっとパターンを知らないときついかも。\nじつは、撃ち方は完全法則があるので、パターン化できます。自機ねらい全方向弾なので \nとりあえず動いていれば当たりませんが、ナニもない空間から突然発弾される上、最後はその発弾点が \n自機めがけて来るのでパターンは必須です。でも、パターンは文章で説明できません（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+comment2_en = "(th4_16.txt from here)\nThank you for downloading this song.\n\nThis is \"The Inevitably Forbidden Game\" from Lotus Land Story. \nI've arranged it ordinarily in my opinion. \nThis song is made up by gathering the most basic parts of my songs. In other words, I made it without thinking anything (sweat). \nSo I believe it was arranged as it was to my extent.\n\nArrangements of these type of songs looks easy but not quite (tears). \nBut I think it worked out this time (I always think it does (^^;;)\n\nAnyway this is a song with a mysteries perspective. It's indefinable, not modern-like nor ancient-like, multinational or non-national. But it not definable as Touhou. (laugh)\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_16.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 禁じざるをえない遊戯 】です。\n自分的にオーソドックスにアレンジしてみました。\nこの曲は、私の曲の一番基本となる部分を集めたものです。つまり、なにも考えずに\n創ったってことですね(汗) \nで、それなりに忠実にアレンジしたつもりです。\n\nこういう曲のアレンジって簡単そうでうまくいかないです（涙）\nでも、今回はうまくいったと思う。（いつもそう思うんだよね～(^^;;）\n\nそれにしても不思議な世界観の曲です。現代風とも古風とも、多国籍とも無国籍とも、\n言い難いかんじ。でも、東方とは言い難いね（笑）\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[17]
+name_jp = "メイド幻想　～ Icemilk Magic"
+comment_en = "The younger sister, Mugetsu's, theme. Somehow, she looks like a maid. \nThis is a pretty cool song, isn't it? Even though it's short. (Because it's short?) \nWell, in any case, it turned out to be a pretend-maid song like this."
+name_en = "Illusion of a Maid ~ Icemilk Magic"
+comment_jp = "妹の夢月のテーマです。何故かメイドみたいなかっこです。\n曲は、なかなかかっこいいんじゃないかな？短いけど（短いから？）\nまぁ、うそっこメイドさんっぽい曲になったよね。"
+
+[18]
+name_jp = "かわいい悪魔　～ Innocence"
+comment_en = "The theme for the older sister Gengetsu, the most terrible, most fearful boss. I wanted for it to have a real Western feel to it, but ... ? \nI was aiming for a song that was pretty similar to Mugetsu's theme. \nRather, I was really hoping to come up with a Mr. Dracula sort of song ... (;_;"
+name_en = "Cute Devil ~ Innocence"
+comment_jp = "最凶最悪のボス、姉の幻月のテーマ。 出来るだけ西洋風に仕上げたかったのですが・・・？\n夢月のテーマと出来るだけ同じような曲を目指しました。\nというより、某ドラキュラみたいな曲を作りたかった・・・（;_;"
+comment2_en = "(th4_18pmd.txt from here)\n Thank you for downloading this song.\n\nThis is the original version of \"Cute Devil ~ Innocence\" from Lotus Land Story.\n\nThis song is the most difficult in the Touhou series, and the boss is said to be the most difficult in the series. \nIt is a long song with a long loop.\n\nThe song is actually a long song, even the loop is long. It takes some skill to listen to the last melody in the game. \nJust around the chorus, I was told that it is the most difficult part. It is said to be the most difficult part of the game. \nAre you able to avoid the attack there? (laugh)\n\n\nWell then, let's meet again in the next song, shall we? ZUN"
+comment2_jp = "(th4_18pmd.txt from here)\nこのたびは、ダウンロードしていただきありがとうございます。\n\n東方幻想郷より【 かわいい悪魔　～ Innocence 】オリジナル版です。\n\nこの曲って、東方シリーズ中、最高難度を誇るといわれるあの超弾幕にも疲れないように \nおとなしめに仕上げてあります。\n\n実はループまで長い曲です。最後のメロディまでゲーム中に聴くにはそれなりの腕を要します(^^;; \nちょうど、サビ？あたりでは、最大の難関と言われる　雨とショートレーザーばらまきの段階に来ます。\nあそこの攻撃は避けれるようになりましたか？（笑）\n\n\nではまた次の曲で逢いましょうか　ＺＵＮ"
+
+[19]
+name_jp = "Days"
+comment_en = "Hmm. It's a song that feels like there's no reason for hopes or dreams. \nAt least when I know I can't make bright songs, the bad end song will come out well. \nExcept the good end feels like a bad end, too."
+name_en = "Days"
+comment_jp = "う～ん。なんか、夢も希望もない曲だね。\nただでさえ、明るい曲なんて作れない私が、バッドエンドの曲なんてね～。\nハッピーエンドの曲もバッドエンドみたいだし。"
+
+[20]
+name_jp = "Peaceful"
+comment_en = "Huh, it feels kind of peaceful. \nMaybe ... a little bright?"
+name_en = "Peaceful"
+comment_jp = "まぁ、なんだ、平和そうだよね。\nすこし、明るい・・・かな？"
+
+[21]
+name_jp = "Arcadian Dream"
+comment_en = "Well, the staff roll is kind of cool, after all. (Is that all you can say? (^^;) \nIt seems like a very simple song, but it might actually be a very simple song. \nWell, there's very little staff, so I don't really need a long staff roll song (^^) \nFor some reason, it's a lot like a boss song (^^;;;"
+name_en = "Arcadian Dream"
+comment_jp = "スタッフロールは、やっぱりかっこよく（あんたはそれしかいえんのか（^^;）\nものすごく単純そうな曲ですが、実はものすごく単純かも。\nまぁ、スタッフがものすごく少ないので、曲も長いのはいらんのでねぇ（^^）\nなぜかボスの曲と大差ないし（^^;;;"
+
+[22]
+name_jp = "幻想の住人"
+comment_en = "Seems like there should be a game over song, too. \nYeah. Maybe a little too energetic."
+name_en = "Those Who Live in Illusions"
+comment_jp = "ゲームオーバーのテーマでもあるはずなんだけどね。\nう～ん。ちょっとはげしすぎかも。"
+
+[23]
+name_jp = "Lotus Road"
+comment_en = "I was going to use this as the stage 1 theme. \nBut, I thought it was a little too light, so I didn't use it..."
+name_en = "Lotus Road"
+comment_jp = "１面に使用するつもりでした。\nただ、ちょっと軽過ぎるんじゃないかと思って、使えませんでした・・・"
+
+[24]
+name_jp = "Dreamy pilot"
+comment_en = "I was going to use this as the stage 4 theme. \nI thought it was kind of air-headed, though, so I threw it out. \nBut, maybe it's not that bad?"
+name_en = "Dreamy pilot"
+comment_jp = "４面に使用するつもりでした。\nいまいち、ぼんやりとした曲って感じなのでボツになりました。\nでも、悪くはないんじゃないの？"
+comment2_en = "(Lotus Land Story trial version \"_MUSIC.TXT\" (contained in the archive file \"東方幻想.郷\"))\nStage 4's Theme\n\nIsn't this the the single best work? \nWell, it's a song with an uninteresting progression on a fixed rhythm. \nWait, I wonder if there's a melody hidden here...hm. \nWhat is it with this song?"
+comment2_jp = "(Lotus Land Story trial version \"_MUSIC.TXT\" (contained in the archive file \"東方幻想.郷\"))\n4面のテーマ\n\n一番の異色作ですね。\nなんか、一定のリズムで淡々と進む曲です。\nちょっと、かなしげっぽいメロディがう~ん。\nこういう曲、どうです?"
+
+[25]
+name_jp = "Incomplete Plot"
+comment_en = "I was going to use this as the stage 5 theme. \nBut for some reason I threw it out. (laugh) \nIt's pretty nice, too ..."
+name_en = "Incomplete Plot"
+comment_jp = "５面に使用するつもりでした。\n何と無くボツになりました（笑）\nいい感じなのにね～。"
+
+[26]
+name_jp = "Border Land"
+comment_en = "I was going to use this as the stage 6 theme. \nI thought the last stage theme should be a bit more mellow, though, so I threw it out."
+name_en = "Border Land"
+comment_jp = "６面に使用するつもりでした。\n最終面はもっとしっとりくる方がいいかと思いボツにしました。"
+comment2_en = "(Lotus Land Story trial version \"_MUSIC.TXT\" (contained in the archive file \"東方幻想.郷\"))\nFinal Stage's Theme\n\nThis is a short tune (^^;;;; \nAs they say, giving the feeling of being at wit's end,\nor something like that. But, the melody (what is it?) \nis like a staff roll in a dream sky kind of feeling... \n(But, that's my tune, I'm done. (^^;)"
+comment2_jp = "(Lotus Land Story trial version \"_MUSIC.TXT\" (contained in the archive file \"東方幻想.郷\"))\n最終面のテーマ\n\nこれは、短い曲ですね(^^;;;; いわゆる、せっぱずまった感を出したかったんですよ。\nなんか、メロディ(なんてあるか?)が、夢時空のスタッフロールみたいな気が・・・\n(自分の曲だし、いっか(^^;)"
+
+[27]
+name_jp = "Magic Shop of Raspberry"
+comment_en = "I was going to use this as the extra stage theme. \nBut I thought the extra stage song should be a little lighter, so I cried and cried and threw it out."
+name_en = "Magic Shop of Raspberry"
+comment_jp = "エキストラステージに使用するつもりでした。\nエキストラはもっと軽快なほうがいいと思い泣く泣くボツにしました。"
+
+[28]
+name_jp = "Crescent Dream"
+comment_en = "I was going to use this for the staff roll. \nIt's not STG-esque, though, so I threw it out."
+name_en = "Crescent Dream"
+comment_jp = "スタッフロールに使用するつもりでした。\nシューティングぽくないのでボツにしました。"
+comment2_en = "(Lotus Land Story trial version \"_MUSIC.TXT\" (contained in the archive file \"東方幻想.郷\"))\n Staff Roll Song\n\nThe staff roll is cool (is that all you can say?), but I think this song is quite Japanese style(^^;) \nWell, I don't know what Japanese style is, but... \n(But of course, I am not aiming for something like the song of Samurai Spirit.)"
+comment2_jp = "(Lotus Land Story trial version \"_MUSIC.TXT\" (contained in the archive file \"東方幻想.郷\"))\nスタッフロールの曲\n\nスタッフロールは、やっぱりかっこよく(あんたはそれしかいえんのか(^^;) \nでも、この曲ってけっこう和風じゃないかしら。まぁ、私が和風ってどういうものなのかわかってないけど・・\n(でも、もちろん、侍魂の曲の様なやつを目指してるわけではないのであしからず、どっちかっていうと姫神みたいなやつね)"
+
+[29]
+name_jp = "装飾戦　～ Decoration Battle (未使用バージョン)"
+name_en = "Decoration Battle (Unused Version)"
+
+[30]
+name_jp = "幽夢　～ Inanimate Dream (未使用バージョン)"
+name_en = "Faint Dream ~ Inanimate Dream (Unused Version)"
